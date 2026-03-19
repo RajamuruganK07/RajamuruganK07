@@ -1,20 +1,23 @@
-![header](<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=1000&height=200&lines=RAJAMURUGAN.K;AI+Developer;Full+Stack+Learner;Python+Developer;Frontend+Developer;Backend+Learner" />)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=RAJAMURUGAN.K&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 <h1 align="center">Hi 👋, I'm Rajamurugan</h1>
 <h3 align="center">Full Stack Developer | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Full+Stack+Learner;Python+Developer;Frontend+Developer;Backend+Learner;React+Enthusiast;Node.js+Developer;Problem+Solver;Tech+Explorer;Future+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&width=600&height=50&lines=AI+Developer;Full+Stack+Learner;Python+Developer;Frontend+Developer;Backend+Learner;React+Enthusiast;Node.js+Developer;Problem+Solver;Tech+Explorer;Future+Engineer&duration=2000&pause=800">
 </p>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" /> About Me
 
 <table>
 <tr>
 <td width="50%">
 
+- 🔭 Working on Full Stack Projects  
+- 🌱 Learning React & Backend  
+- ⚡ Goal: Become Software Engineer  
 - 🔭 Building cross-platform mobile apps with Flutter  
 - 🌐 Crafting full stack web apps using React & Node.js  
 - 🐳 Containerizing applications using Docker  
@@ -27,7 +30,7 @@
 
 <td width="50%">
 
-<img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="100%" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -84,7 +87,6 @@
 <img src="https://streak-stats.demolab.com?user=RajamuruganK07&theme=tokyonight" />
 
 </p>
-
 
 ---
 
