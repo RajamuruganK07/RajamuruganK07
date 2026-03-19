@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=RAJAMURUGAN.K&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20|%20Full%20Stack%20Learner%20|%20Python%20Developer%20|%20Frontend%20Developer%20|%20Backend%20Learner&descAlignY=70&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=RAJAMURUGAN.K&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 <h1 align="center">Hi 👋, I'm Rajamurugan</h1>
 <h3 align="center">Full Stack Developer | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Full+Stack+Learner;Python+Developer;Frontend+Developer;Backend+Learner;React+Enthusiast;Node.js+Developer;Problem+Solver;Tech+Explorer;Future+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&width=600&height=50&lines=AI+Developer;Full+Stack+Learner;Python+Developer;Frontend+Developer;Backend+Learner;React+Enthusiast;Node.js+Developer;Problem+Solver;Tech+Explorer;Future+Engineer&duration=2000&pause=800">
 </p>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" /> About Me
 
 <table>
 <tr>
