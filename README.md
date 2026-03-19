@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=RAJAMURUGAN.K&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-<h1 align="center">Hi 👋, I'm Rajamurugan</h1>
+<h1 align="center">
+  <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="35" />
+  Hi, I'm Rajamurugan
+</h1>
+
 <h3 align="center">Full Stack Developer | Future Software Engineer</h3>
 
 <p align="center">
