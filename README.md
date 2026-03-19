@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=&fontSize=45&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=RAJAMURUGANheader&text=&fontSize=45&fontColor=ffffff)
 
 
 <h1 align="center">Hi 👋, I'm RAJAMURUGAN K</h1>
@@ -33,3 +33,23 @@
 
 ### 📫 Contact
 - Email: rajamurugan527@gmail.com
+- ## 🚀 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+- 🚀 Building cross-platform apps  
+- 🌱 Learning Full Stack  
+- 🤝 Open to collaborate  
+- 📍 Tamil Nadu, India  
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="100%" />
+
+</td>
+</tr>
+</table>
