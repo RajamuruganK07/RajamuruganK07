@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Rajamurugan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20|%20Full%20Stack%20Learner%20|%20Python%20Developer%20|%20Frontend%20Developer%20|%20Backend%20Learner&descAlignY=70&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=RAJAMURUGAN.K&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20|%20Full%20Stack%20Learner%20|%20Python%20Developer%20|%20Frontend%20Developer%20|%20Backend%20Learner&descAlignY=70&descAlign=50)
 
 <h1 align="center">Hi 👋, I'm Rajamurugan</h1>
 <h3 align="center">Full Stack Developer | Future Software Engineer</h3>
