@@ -40,8 +40,30 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,git,github,vscode,docker" />
+### 🧑‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+---
+
+### 🌐 Frontend & Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind" />
+</p>
+
+---
+
+### ⚙️ Backend & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+</p>
+
+---
+
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode" />
 </p>
 
 ---
@@ -68,13 +90,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RajamuruganK07&theme=tokyonight" />
-</p>
-
----
 
 ## 📂 Projects
 
