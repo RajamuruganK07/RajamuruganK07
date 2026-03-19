@@ -40,29 +40,31 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### 🧑‍💻 Languages
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
 ---
 
 ### 🌐 Frontend & Mobile
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind" />
 </p>
 
 ---
 
 ### ⚙️ Backend & DevOps
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
 </p>
 
 ---
 
 ### 🗄️ Databases & Tools
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode" />
 </p>
 
