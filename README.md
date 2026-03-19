@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Rajamurugan&fontSize=45&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=RAJAMURUGAN.K&fontSize=45&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Rajamurugan</h1>
 <h3 align="center">Full Stack Developer | Future Software Engineer</h3>
@@ -40,30 +40,28 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 🧑‍💻 Languages
+<h3 align="center">🧑‍💻 Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
 ---
 
-### 🌐 Frontend & Mobile
+<h3 align="center">🌐 Frontend & Mobile</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind" />
 </p>
 
 ---
 
-### ⚙️ Backend & DevOps
+<h3 align="center">⚙️ Backend & DevOps</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
 </p>
 
 ---
 
-### 🗄️ Databases & Tools
+<h3 align="center">🗄️ Databases & Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode" />
 </p>
