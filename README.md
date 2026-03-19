@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Rajamurugan&fontSize=45&fontColor=ffffff)
 
-<h1 align="center">Hi 👋, I'm Rajamurugan</h1>
-<h3 align="center">Full Stack Developer | Future S-Rank Dev</h3>
+
 <h1 align="center">Hi 👋, I'm RAJAMURUGAN K</h1>
 <h3 align="center">Full Stack Developer | Future S-Rank Dev</h3>
 
