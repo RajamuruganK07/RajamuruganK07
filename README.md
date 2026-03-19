@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=RAJAMURUGAN.K&fontSize=45&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Rajamurugan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20|%20Full%20Stack%20Learner%20|%20Python%20Developer%20|%20Frontend%20Developer%20|%20Backend%20Learner&descAlignY=70&descAlign=50)
 
 <h1 align="center">Hi 👋, I'm Rajamurugan</h1>
 <h3 align="center">Full Stack Developer | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Full+Stack+Learner;AI+Explorer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Full+Stack+Learner;Python+Developer;Frontend+Developer;Backend+Learner;React+Enthusiast;Node.js+Developer;Problem+Solver;Tech+Explorer;Future+Engineer">
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 <td width="50%">
 
-<img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="100%" />
+<img src="(https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)" width="100%" />
 
 </td>
 </tr>
@@ -42,7 +42,7 @@
 
 <h3 align="center">🧑‍💻 Languages</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ---
@@ -90,17 +90,17 @@
 
 ---
 
-
 ## 📂 Projects
 
 - 🔹 Nutri-Tech – Smart nutrition tracking system  
 - 🔹 Hero Bot – Automation chatbot project  
+- 🔹 Smart Calculator – Python-based calculator  
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: rajamurugan527@gmail.com
+- 📧 Email: [rajamurugan527@gmail.com](mailto:rajamurugan527@gmail.com)
 
 ---
 
