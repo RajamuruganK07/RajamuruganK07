@@ -15,12 +15,12 @@
 - 🌱 Learning React & Backend  
 - ⚡ Goal: Become Software Engineer
 - 🔭 Building cross-platform mobile apps with Flutter
-🌐 Crafting full stack web apps with React + Node.js
-🐳 Containerizing everything with Docker
-🤝 Open to collaborate on exciting projects
-📍 Based in Tamil Nadu, India 🇮🇳
-📧 Reach me at rajamurugan527@gmail.com
-⚡ Fun fact: Coffee → Code → Repeat ☕ 
+-🌐 Crafting full stack web apps with React + Node.js
+-🐳 Containerizing everything with Docker
+-🤝 Open to collaborate on exciting projects
+-📍 Based in Tamil Nadu, India 🇮🇳
+-📧 Reach me at rajamurugan527@gmail.com
+-⚡ Fun fact: Coffee → Code → Repeat ☕ 
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 📫 Contact
 - Email: rajamurugan527@gmail.com
-- ## 🚀 About Me
+## 🚀 About Me
 
 <table>
 <tr>
@@ -53,3 +53,4 @@
 </td>
 </tr>
 </table>
+
