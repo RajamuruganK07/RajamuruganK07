@@ -74,18 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RajamuruganK07&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajamuruganK07&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
