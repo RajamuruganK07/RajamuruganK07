@@ -88,7 +88,8 @@
 
 - 🔹 Nutri-Tech – Smart nutrition tracking system  
 - 🔹 Hero Bot – Automation chatbot project  
-- 🔹 Smart Calculator – Python-based calculator  
+- 🔹 Smart Calculator – Python-based calculator
+- 🔹 IDLY KADAI- ccs pased shop
 
 ---
 
