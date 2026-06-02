@@ -95,7 +95,8 @@
 
 ## 📫 Contact
 
-- 📧 Email: [rajamurugan527@gmail.com](mailto:rajamurugan527@gmail.com),9788675052
+- 📧 Email: [rajamurugan527@gmail.com](mailto:rajamurugan527@gmail.com),
+- Mobile Number : 9788675052
 
 ---
 
